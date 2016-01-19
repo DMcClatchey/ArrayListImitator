@@ -1,0 +1,2 @@
+# ArrayListImitator
+Replicates ArrayList functionality
